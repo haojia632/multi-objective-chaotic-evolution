@@ -1,6 +1,6 @@
 # multi-objective-chaotic-evolution
 
-## The following figures are the objectives of each individual in the generation of 5, 10, 20, 50, 100, 200, 500, 1000
+#### The following figures are the objectives of each individual in the generation of 5, 10, 20, 50, 100, 200, 500, 1000
 1. DTLZ5.jpg
 1. DTLZ6.jpg
 1. DTLZ7.jpg
@@ -20,5 +20,5 @@
 
 
 ===========================
-## non-dominant.jpg is a figure shows the number of individual in the non-dominant frontier (combine all the individuals of CE, NSGA-II and RE)
+#### non-dominant.jpg is a figure shows the number of individual in the non-dominant frontier (combine all the individuals of CE, NSGA-II and RE)
 
